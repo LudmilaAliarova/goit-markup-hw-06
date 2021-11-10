@@ -828,6 +828,9 @@ footer {
 }
 .modal-label {
   color: var(--text-third-color);
+  font-size: 12px;
+  line-height: 1,17;
+  letter-spacing: 0.01em;
   }
 .modal-form-message {
   width: 448px;
@@ -856,6 +859,9 @@ footer {
   margin-bottom: 10px;
 }
 
+.modal-link {
+  color: var(--accent-color);
+}
 .modal-form-icon {
   position: absolute;
   left: 12px;
